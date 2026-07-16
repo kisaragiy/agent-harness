@@ -4,9 +4,9 @@ const app = getApp()
 Page({
   data: {
     version: '1.0.0',
-    developerName: '张伟强',
+    developerName: 'kisaragiy',
     githubUrl: 'https://github.com/kisaragiy/lingShu',
-    wechatId: 'taqibala'
+    wechatId: 'RT2965783750'
   },
 
   copyText(e) {
